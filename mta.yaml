@@ -195,7 +195,7 @@ resources:
       service-name: CAPMT_REG
       config:
          xsappname: ~{capmt-uaa/XSAPPNAME}
-         appName: capmt
+         appName: capmt-acl
          displayName: capmt
          description: 'capmt Multitenant App'
          category: 'capmt Category'
